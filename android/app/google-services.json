@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277464278163",
+    "project_id": "my-musico-app-0101",
+    "storage_bucket": "my-musico-app-0101.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277464278163:android:412815c890aca1a1e35966",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQDeZanJtDSysED1FnGwMZtXTtAoC2zTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
